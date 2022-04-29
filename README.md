@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rodrigo Marques.
 
-- 🔭 Trabalhando com Cibersegurança e Proteção de Dados
-- 🌱 Estudando Ethical Hacking e Python
+- 🔭 Trabalhando com Desenvolvimento Web
+- 🌱 Estudando JavaScript e React
 - 😄 Pronouns: ele/dele
 
 <div align="center">
