@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rodrigo Marques.
+### Olá! Eu sou o Rodrigo Marques Pereira.
 
 - 🔭 Trabalhando com Desenvolvimento Web
 - 🌱 Estudando JavaScript e React
